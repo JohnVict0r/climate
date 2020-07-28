@@ -1,0 +1,14 @@
+{
+  "name": "climate",
+  "displayName": "climate app",
+  "expo": {
+    "name": "climate",
+    "slug": "expo-template-bare",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "assetBundlePatterns": ["**/*"],
+    "android": {
+      "package": "com.builders.climate"
+    }
+  }
+}
