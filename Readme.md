@@ -21,7 +21,7 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" src=".github/climate-app.jpg" width="100%">
+  <img alt="Frontend" src=".github/climate-app.jpg" width="50%">
 </p>
 
 ## :bookmark: Desafio
